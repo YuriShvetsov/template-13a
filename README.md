@@ -9,7 +9,9 @@ Date: 31.03.20
 
 `npm i` - install modules
 
-`npm start` - run project
+`npm run dev` - webpack development mode
+
+`npm run build` - webpack build mode
 
 ------------
 The objectives that were pursued when creating the layout:
