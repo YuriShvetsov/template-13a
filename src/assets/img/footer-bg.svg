@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="877px" viewBox="0 0 1920 877" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Rectangle 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="88.8584955%" x2="50%" y2="2.77555756e-15%" id="linearGradient-1">
+            <stop stop-color="#20232D" offset="0%"></stop>
+            <stop stop-color="#151720" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Home" transform="translate(0.000000, -4966.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-28" transform="translate(0.000000, 4857.000000)">
+                <g id="Group-27" transform="translate(0.000000, 109.000000)">
+                    <path d="M0,182.047024 C92.0464915,76.9225771 226.714842,16.7325067 404.005052,1.47681316 C581.295261,-13.7788804 1086.62691,89.1605666 1920,310.295154 L1920,877 L0,877 L0,182.047024 Z" id="Rectangle-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
