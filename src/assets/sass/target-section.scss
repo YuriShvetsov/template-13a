@@ -52,6 +52,13 @@
 
 @media screen and (max-width: 991px) {
 
+  .target {
+    background: url(../img/oval-green.svg);
+    background-position: -355px 0;
+    background-repeat: no-repeat;
+    background-size: 400px 600px;
+  }
+
   .target__cards {
     display: block;
   }
