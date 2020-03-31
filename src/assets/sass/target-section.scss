@@ -1,10 +1,10 @@
 /* Target section */
 
 .target {
-  background-image: url(../img/oval-green.svg);
-  background-position: -355px 0;
-  background-repeat: no-repeat;
-  background-size: 400px 600px;
+  background: url(../img/oval-green.svg), url(../img/oval-black.svg);
+  background-position: -355px 0, calc(100% + 355px) 475px;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 400px 600px, 400px 600px;
 }
 
 .target__cards {

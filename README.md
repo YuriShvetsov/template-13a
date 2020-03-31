@@ -23,7 +23,7 @@ The objectives that were pursued when creating the layout:
 - responsive design with **media queries**,
 - implementation of third-party libraries, open-source solutions and plug-ins,
 - familiarization with the **npm** package manager,
-- partial use of **Gulp** features.
+- used **Webpack**.
 
 ------------
 Screenshots:
